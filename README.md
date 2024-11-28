@@ -6,12 +6,12 @@
 
 ## فهرست مطالب
 
-1. [معرفی پروژه](#معرفی-پروژه)
-2. [ویژگی‌ها](#ویژگی‌ها)
-3. [پیش‌نیازها](#پیش‌نیازها)
-4. [نصب و راه‌اندازی](#نصب-و-راه‌اندازی)
+1. [معرفی پروژه](#font-renamer-اسکریپت-پایتون-برای-تغییر-نام-فایلهای-فونت)
+2. [ویژگی‌ها](#ویژگیها)
+3. [پیش‌نیازها](#پیشنیازها)
+4. [نصب و راه‌اندازی](#نصب-و-راهاندازی)
 5. [نحوه استفاده](#نحوه-استفاده)
-    - [تغییر نام فایل‌های فونت](#تغییر-نام-فایل‌های-فونت)
+    - [تغییر نام فایل‌های فونت](#نحوه-استفاده)
 6. [جزئیات اسکریپت](#جزئیات-اسکریپت)
 7. [لایسنس](#لایسنس)
 
@@ -19,12 +19,12 @@
 
 ## Table of Contents
 
-1. [Project Introduction](#project-introduction)
+1. [Project Introduction](#font-renamer-a-python-script-for-renaming-font-files)
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Installation and Setup](#installation-and-setup)
 5. [Usage](#usage)
-    - [Renaming Font Files](#renaming-font-files)
+    - [Renaming Font Files](#usage)
 6. [Script Details](#script-details)
 7. [License](#license)
 
@@ -47,7 +47,7 @@
 #### نصب و راه‌اندازی
 1. **کلون کردن مخزن:**
    ```bash
-   git clone https://github.com/YourUsername/FontRenamer.git
+   git clone https://github.com/mohammad021/FontRenamer.git
    cd FontRenamer
    ```
 
@@ -78,7 +78,6 @@
 
 ---
 
-### English Description for GitHub
 
 ### **Font Renamer: A Python Script for Renaming Font Files**
 
@@ -96,7 +95,7 @@
 #### Installation and Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/FontRenamer.git
+   git clone https://github.com/mohammad021/FontRenamer.git
    cd FontRenamer
    ```
 
